@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  height: 200px;
+  justify-content: first baseline;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+.info,
+.box {
+  text-align: start;
+  line-height: 5px;
+  font-size: larger;
+  margin: 20px;
+}
+.box {
+  border: 1px solid;
+}
+.red {
+  justify-content: center;
+  align-self: center;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  width: 500px;
+}
