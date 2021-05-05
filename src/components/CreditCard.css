@@ -1,0 +1,26 @@
+.CreditCard {
+  border: ridge rgb(85, 79, 79);
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.CreditCard .type {
+  text-align: right;
+}
+
+.CreditCard .type img {
+  height: 20px;
+}
+
+.CreditCard .number {
+  font-size: 1.9em;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.CreditCard .bank {
+  margin-left: 20px;
+}

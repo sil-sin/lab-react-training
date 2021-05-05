@@ -1,0 +1,19 @@
+.driver {
+  background: turquoise;
+}
+.driverImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  margin-right: 30px;
+}
+.driverCard {
+  width: 700px;
+  background-color: #455eb5;
+  margin: 10px;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 12px;
+}
